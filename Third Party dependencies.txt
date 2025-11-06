@@ -1,0 +1,29 @@
+1. App Write
+	- database
+	- storage for images
+	- authentication for logina and sign-up
+
+2. TinyMCE
+	- Blog writing editor
+	- provides features such as bold, italic, colors to text, etc...
+
+3. HTML React Parser
+	- to store the data of blog in the form of html
+	- why? so that we can maintain the properties such as bold, italic, colors, etc...
+	- handles automatically if one tries to put "<strong> Hello </strong>" as text
+
+4. React Hook Form
+	- for input forms such as 
+		- login form
+		- sign-up form
+	- better data handling
+	- better error handling
+
+5. react-redux and redux/toolkit
+	- state Management
+
+6. react-router-dom
+	- for routing such as going from one page to another page
+	- example from login page to sign-up page or home page
+
+7. sample env file pushed to the github so that users can know which things they will need
